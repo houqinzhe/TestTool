@@ -15,6 +15,7 @@
 		1430FA66227096A10015419C /* TestToolTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1430FA65227096A10015419C /* TestToolTests.swift */; };
 		1430FA71227096A10015419C /* TestToolUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1430FA70227096A10015419C /* TestToolUITests.swift */; };
 		1430FA80227096E90015419C /* TargetActionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1430FA7F227096E90015419C /* TargetActionHandler.swift */; };
+		1430FABC22709FB30015419C /* TestAddFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1430FABB22709FB30015419C /* TestAddFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1430FA70227096A10015419C /* TestToolUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestToolUITests.swift; sourceTree = "<group>"; };
 		1430FA72227096A10015419C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1430FA7F227096E90015419C /* TargetActionHandler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TargetActionHandler.swift; sourceTree = "<group>"; };
+		1430FABB22709FB30015419C /* TestAddFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestAddFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +134,7 @@
 			isa = PBXGroup;
 			children = (
 				1430FA7F227096E90015419C /* TargetActionHandler.swift */,
+				1430FABB22709FB30015419C /* TestAddFile.swift */,
 			);
 			name = Observers;
 			path = ../../Observers;
@@ -269,6 +272,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1430FA80227096E90015419C /* TargetActionHandler.swift in Sources */,
+				1430FABC22709FB30015419C /* TestAddFile.swift in Sources */,
 				1430FA53227096A00015419C /* ViewController.swift in Sources */,
 				1430FA51227096A00015419C /* AppDelegate.swift in Sources */,
 			);
